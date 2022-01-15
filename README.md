@@ -1,1 +1,1 @@
-# codecademy-project
+# Error Handling and Promise Excercise of Javascript
